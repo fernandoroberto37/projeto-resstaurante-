@@ -1,7 +1,7 @@
 
 
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
+import { Button } from "@/components/consumption-method-option.tsx/button";
+import { Input } from "@/components/consumption-method-option.tsx/input";
 
 const ProductPage = () => {
   return (
